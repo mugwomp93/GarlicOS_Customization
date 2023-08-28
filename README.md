@@ -12,11 +12,11 @@ My various boot logos, themes, etc for Garlic OS for the Anbernic RG35XX. I've a
 ## Themes
 1. **Arcade Invaders** - Latest version of my personal theme. Always a work in progress.<br><br>![Arcade_Invaders](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/9157b82e-8f19-426a-81b0-c8208c241fb0)<br><br>
 
-2. **Moving Dungeon** - Wizardry inspired theme based on Minimal Dungeon theme by 420AM. I wanted to see if I could simulate walking down the hallway<br><br>![Moving Dungeon](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/57e6a93f-d7d9-4df0-b560-f6d61c90c81d)<br><br>
+2. **Moving Dungeon** - Wizardry inspired theme based on Minimal Dungeon theme by 420AM. I wanted to see if I could simulate walking down the hallway. Turns out I could, but doing so required a detour into the weird world of how Garlic OS renders oversized icons (see Garlic OS theming notes and/or Moving Dungeon readme if you're interested).<br><br>![Moving Dungeon](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/57e6a93f-d7d9-4df0-b560-f6d61c90c81d)<br><br>
 
 3. **GBMini for Garlic** (adapted from [GBMini Miyoo Mini theme](https://www.reddit.com/r/MiyooMini/comments/vdxg1a/gbonion_theme_and_customizations/?rdt=57022) by Kitsuvi)
-4. **GBOnion for Garlic** (adapted from [GBOnion Miyoo Mini theme](https://www.reddit.com/r/MiyooMini/comments/vdxg1a/gbonion_theme_and_customizations/?rdt=57022) by Kisuvi)
-5. **GBOnion Multicolor** (remix of the above two themes: dark background with multicolored active icons)
+4. **GBOnion for Garlic** (adapted from [GBOnion Miyoo Mini theme](https://www.reddit.com/r/MiyooMini/comments/vdxg1a/gbonion_theme_and_customizations/?rdt=57022) by Kitsuvi)
+5. **GBOnion Multicolor** (remix of the above two themes: dark background with multicolored active icons and logos)
 
 ## Overlays
 1. **GB Dark** - Dark overlay + grid for GB based on the GBCL Miyoo Mini overlay<br><br>![GB_dark_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/6cb58cb8-5c67-4b56-862c-485d28f4fcc5)<br><br>
