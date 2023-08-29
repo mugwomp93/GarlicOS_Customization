@@ -1,4 +1,4 @@
-# GarlicOS Customization
+# Garlic OS Customization
 
 My various boot logos, themes, etc for Garlic OS for the Anbernic RG35XX. I've also included an Excel file with my notes on what each of the images in the skin folder does and how to use oversized icons (i.e., as in my Moving Dungeon theme). I'll add to this repository as I develop new assets and as time permits. Please let me know if you run into any bugs or have suggestions. You can also find me on Reddit (u/mugwomp_93).
 
