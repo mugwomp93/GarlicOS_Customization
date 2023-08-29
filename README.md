@@ -10,9 +10,9 @@ Various boot logos, themes, and overlays for Garlic OS for the Anbernic RG35XX. 
 
 
 ## Themes
-1. **Arcade Invaders** - An arcade classic that never was. Always a work in progress.<br><br>![Arcade_Invaders](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/9157b82e-8f19-426a-81b0-c8208c241fb0)<br><br>
+1. **Arcade Invaders** - An arcade classic that never was. A work in progress.<br><br>![Arcade_Invaders](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/9157b82e-8f19-426a-81b0-c8208c241fb0)<br><br>
 
-2. **Moving Dungeon** - Wizardry-inspired theme based on Minimal Dungeon theme by 420AM. I wanted to see if I could simulate walking down the hallway. Turns out I could but it required a detour into the weird world of how Garlic OS displays oversized icons (see Garlic OS theming notes and/or Moving Dungeon readme if you're interested).<br><br>![Moving Dungeon](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/57e6a93f-d7d9-4df0-b560-f6d61c90c81d)<br><br>
+2. **Moving Dungeon** - Wizardry-inspired theme based on Minimal Dungeon theme by 420AM. I wanted to see if I could simulate walking down the hallway as you move through the options. Turns out I could but it required a detour into the weird world of how Garlic OS displays oversized icons (see Garlic OS theming notes and/or Moving Dungeon readme if you're interested).<br><br>![Moving Dungeon](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/57e6a93f-d7d9-4df0-b560-f6d61c90c81d)<br><br>
 
 3. **GBMini for Garlic** (adapted from [GBMini Miyoo Mini theme](https://www.reddit.com/r/MiyooMini/comments/vdxg1a/gbonion_theme_and_customizations/?rdt=57022) by Kitsuvi)
 4. **GBOnion for Garlic** (adapted from [GBOnion Miyoo Mini theme](https://www.reddit.com/r/MiyooMini/comments/vdxg1a/gbonion_theme_and_customizations/?rdt=57022) by Kitsuvi)
@@ -21,6 +21,6 @@ Various boot logos, themes, and overlays for Garlic OS for the Anbernic RG35XX. 
 ## Overlays
 1. **GB Dark** - Dark overlay + grid for GB based on the GBCL Miyoo Mini overlay<br><br>![GB_dark_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/6cb58cb8-5c67-4b56-862c-485d28f4fcc5)<br><br>
 
-2. **GB Dark Nointeger** - Six adaptations of my GB Dark overlay for those who don't use integer scaling<br><br>![GB_dark_full_logo_power](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/9dcaf19c-e055-43e0-a6c6-38eb8cb97842)<br><br>
+2. **GB Dark Nointeger** - Six variants of my GB Dark overlay for those who don't use integer scaling<br><br>![GB_dark_full_logo_power](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/9dcaf19c-e055-43e0-a6c6-38eb8cb97842)<br><br>
 
 3. **GBA 3X Pixel Alt** - Modification of the GBA_3x_pixel Miyoo Mini overlay with reduced opacity grid and no blue GBA logo border<br><br>![GBA_3x_pixel_alt_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/72857307-e831-4688-a2b9-0631a176f0b6)<br><br>
