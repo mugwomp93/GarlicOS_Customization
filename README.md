@@ -2,7 +2,7 @@
 
 Various boot logos, themes,  overlays etc. Mostly for Garlic OS for the Anbernic RG35XX. Please let me know if you run into any bugs or have suggestions. You can also find me on Reddit (u/mugwomp_93).
 
-## Garlic OS
+## Garlic OS (RG35XX)
 
 ### Boot Logos
 1. **Garlic Gradius** - Imaginary Gradius boxart for SNES<br><br>![boot_image_v3](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/3d016c4a-141c-4352-b5ba-0f5d0a85be85)<br><br>
