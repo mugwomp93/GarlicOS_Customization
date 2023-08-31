@@ -1,4 +1,4 @@
-# Retrogaming Customization
+# Retro-Gaming Customization
 
 Various boot logos, themes,  overlays etc. Mostly for Garlic OS for the Anbernic RG35XX. Please let me know if you run into any bugs or have suggestions. You can also find me on Reddit (u/mugwomp_93).
 
