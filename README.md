@@ -26,3 +26,9 @@ Various boot logos, themes, and overlays for Garlic OS for the Anbernic RG35XX. 
 2. **GB Dark Nointeger** - Six variants of my GB Dark overlay for those who don't use integer scaling<br><br>![GB_dark_full_logo_power_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/fba81488-fa17-4f33-835b-3bb053befd57)<br><br>
 
 3. **GBA 3X Pixel Alt** - Modification of the GBA_3x_pixel Miyoo Mini overlay with reduced opacity grid and no blue GBA logo border<br><br>![GBA_3x_pixel_alt_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/72857307-e831-4688-a2b9-0631a176f0b6)<br><br>
+
+
+## Miscellaneous
+Not Garlic or RG35XX related
+1. **Cyclo DS / EDGE DS Skin** - Plumber-themed skin for Cyclo DS and EDGE DS flash cards<br><br>![Super_Mario_Skin](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/495b49fd-1791-4cab-897d-2999a4726a49)
+<br><br>
