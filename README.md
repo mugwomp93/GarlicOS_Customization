@@ -1,4 +1,4 @@
-# Retro-Gaming Customization
+# Retro-Game Theme Customization
 
 Various boot logos, themes,  overlays etc. Mostly for Garlic OS for the Anbernic RG35XX. Please let me know if you run into any bugs or have suggestions. You can also find me on Reddit (u/mugwomp_93).
 
@@ -32,5 +32,5 @@ Various boot logos, themes,  overlays etc. Mostly for Garlic OS for the Anbernic
 
 ## Miscellaneous
 Not Garlic or RG35XX related
-1. **Cyclo DS / EDGE DS Skin** - Plumber-themed skin for Cyclo DS and EDGE DS flash cards<br><br>![Super_Mario_Skin](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/495b49fd-1791-4cab-897d-2999a4726a49)
+1. **Cyclo DS / EDGE DS Skin** - Plumber-themed skin for Cyclo DS and EDGE DS flash cards<br><br>![Super_Mario_Skin_dark](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/1db6afd7-d132-4443-a259-160776dd9d89)
 <br><br>
