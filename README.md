@@ -8,6 +8,8 @@ Various boot logos, themes,  overlays etc. Mostly for Garlic OS for the Anbernic
 1. **Garlic Gradius** - Imaginary Gradius boxart for SNES<br><br>![boot_image_v3](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/3d016c4a-141c-4352-b5ba-0f5d0a85be85)<br><br>
 2. **Purple Neon** - Lower brightness purple boot logo<br><br>![purple_neon](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/fe4c65cc-def1-424d-a75b-456c2c06324e)<br><br>
 3. **Wizardry** - Apple II Wizardry intro screen<br><br>![wizardry](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/2657303a-d315-418f-bd0c-f9b926a3da18)<br><br>
+4. **Arcade Start** - Star Force arcade start screen<br><br>![arcade_start](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/f126081c-4a28-4f2d-a09d-fdc785ec0db9)
+
 
 
 ### Themes
