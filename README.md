@@ -4,12 +4,13 @@ Various boot logos, themes,  overlays etc. Mostly for Garlic OS for the Anbernic
 
 ## Garlic OS (RG35XX)
 
-### Boot Logos
-1. **RG35XX All-Stars** - Super Mario All-Stars (SNES) title screen logo<br><br>![RG35XX_All-Stars](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/f76dc2d4-3abb-4296-b6fe-0bd7915aad51)<br><br>
-2. **Garlic Gradius** - Imaginary Gradius boxart for SNES<br><br>![boot_image_v3](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/3d016c4a-141c-4352-b5ba-0f5d0a85be85)<br><br>
-3. **Purple Neon** - Lower brightness purple boot logo<br><br>![purple_neon](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/fe4c65cc-def1-424d-a75b-456c2c06324e)<br><br>
-4. **Wizardry** - Apple II Wizardry intro screen<br><br>![wizardry](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/2657303a-d315-418f-bd0c-f9b926a3da18)<br><br>
-5. **Arcade Start** - Star Force arcade start screen<br><br>![arcade_start](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/f126081c-4a28-4f2d-a09d-fdc785ec0db9)
+### Boot Logos & Animations
+1. **Super Garlic Bros. 3** - Super Mario Bros. 3 boot animation<br><br>![Super Garlic Bros 3](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/7b224ef7-eb24-4fc4-bcf2-78573f564e0b)<br><br>
+2. **RG35XX All-Stars** - Super Mario All-Stars (SNES) title screen logo<br><br>![RG35XX_All-Stars](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/f76dc2d4-3abb-4296-b6fe-0bd7915aad51)<br><br>
+3. **Garlic Gradius** - Imaginary Gradius boxart for SNES<br><br>![boot_image_v3](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/3d016c4a-141c-4352-b5ba-0f5d0a85be85)<br><br>
+4. **Purple Neon** - Lower brightness purple boot logo<br><br>![purple_neon](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/fe4c65cc-def1-424d-a75b-456c2c06324e)<br><br>
+5. **Wizardry** - Apple II Wizardry intro screen<br><br>![wizardry](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/2657303a-d315-418f-bd0c-f9b926a3da18)<br><br>
+6. **Arcade Start** - Star Force arcade start screen<br><br>![arcade_start](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/f126081c-4a28-4f2d-a09d-fdc785ec0db9)
 
 
 ### Themes
