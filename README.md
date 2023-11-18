@@ -28,11 +28,13 @@ Various boot logos, themes,  overlays etc. Mostly for Garlic OS for the Anbernic
 
 
 ### Overlays
-1. **GB Dark** - Dark overlay + grid for GB based on the GBCL Miyoo Mini overlay<br><br>![GB_dark_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/6cb58cb8-5c67-4b56-862c-485d28f4fcc5)<br><br>
+1. **Imperfect GBC** - A semi-successful attempt to make an accurate, full-height GBC overlay. Based on 1playerinsertcoin's [brilliant Perfect DMG overlay](https://www.reddit.com/r/MiyooMini/comments/17vjxgj/i_made_a_game_boy_dmg_overlay/?rdt=47817).<br><br>![Imperfect_GBC_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/f247b0c1-2576-4e67-9bdb-26c16a436faf)<br><br>
 
-2. **GB Dark Nointeger** - Six variants of my GB Dark overlay for those who don't use integer scaling<br><br>![GB_dark_full_logo_power_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/fba81488-fa17-4f33-835b-3bb053befd57)<br><br>
+2. **GB Dark** - Dark overlay + grid for GB based on the GBCL Miyoo Mini overlay<br><br>![GB_dark_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/6cb58cb8-5c67-4b56-862c-485d28f4fcc5)<br><br>
 
-3. **GBA 3X Pixel Alt** - Modification of the GBA_3x_pixel Miyoo Mini overlay with reduced opacity grid and no blue GBA logo border<br><br>![GBA_3x_pixel_alt_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/72857307-e831-4688-a2b9-0631a176f0b6)<br><br>
+3. **GB Dark Nointeger** - Six variants of my GB Dark overlay for those who don't use integer scaling<br><br>![GB_dark_full_logo_power_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/fba81488-fa17-4f33-835b-3bb053befd57)<br><br>
+
+4. **GBA 3X Pixel Alt** - Modification of the GBA_3x_pixel Miyoo Mini overlay with reduced opacity grid and no blue GBA logo border<br><br>![GBA_3x_pixel_alt_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/72857307-e831-4688-a2b9-0631a176f0b6)<br><br>
 
 
 ## Miscellaneous
