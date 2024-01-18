@@ -28,7 +28,8 @@ Various boot logos, themes,  overlays etc. Mostly for Garlic OS for the Anbernic
 
 
 ### Overlays
-1. **Imperfect GBC** - A semi-successful attempt to make an accurate, full-height GBC overlay. Based on 1playerinsertcoin's [brilliant Perfect DMG overlay](https://www.reddit.com/r/MiyooMini/comments/17vjxgj/i_made_a_game_boy_dmg_overlay/?rdt=47817).<br><br>![Imperfect_GBC_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/f247b0c1-2576-4e67-9bdb-26c16a436faf)<br><br>
+1. **Perfect GBC for RG35XX** - An adaptation of 1playerinsertcoin's [brilliant Perfect GBC overlay](https://www.reddit.com/r/MiyooMini/comments/1857xa7/i_made_a_game_boy_color_overlay/) to correct a minor alignment issue on the RG35XX. Use 1playerinsertcoin's original overlays for the Miyoo Mini Plus. Note that the image below is a mock-up, and not an actual screenshot.<br><br>![Perfect_GBC_for_RG35XX_Mockup](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/993612ec-f6d1-4d12-b33a-72e331b3a982)
+<br><br>
 
 2. **GB Dark** - Dark overlay + grid for GB based on the GBCL Miyoo Mini overlay<br><br>![GB_dark_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/6cb58cb8-5c67-4b56-862c-485d28f4fcc5)<br><br>
 
