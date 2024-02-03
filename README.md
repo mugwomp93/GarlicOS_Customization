@@ -10,7 +10,6 @@ Various boot logos, themes,  overlays etc. Mostly for Garlic OS for the Anbernic
 3. **Garlic Gradius** - Imaginary Gradius boxart for SNES<br><br>![boot_image_v3](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/3d016c4a-141c-4352-b5ba-0f5d0a85be85)<br><br>
 4. **Purple Neon** - Lower brightness purple boot logo<br><br>![purple_neon](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/fe4c65cc-def1-424d-a75b-456c2c06324e)<br><br>
 5. **Wizardry** - Apple II Wizardry intro screen<br><br>![wizardry](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/2657303a-d315-418f-bd0c-f9b926a3da18)<br><br>
-6. **Arcade Start** - Star Force arcade start screen<br><br>![arcade_start](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/f126081c-4a28-4f2d-a09d-fdc785ec0db9)
 
 
 ### Themes
@@ -28,8 +27,12 @@ Various boot logos, themes,  overlays etc. Mostly for Garlic OS for the Anbernic
 
 
 ### Overlays
-1. **Perfect GBC for RG35XX** - An adaptation of 1playerinsertcoin's [brilliant Perfect GBC overlay](https://www.reddit.com/r/MiyooMini/comments/1857xa7/i_made_a_game_boy_color_overlay/) to correct a minor alignment issue on the RG35XX. Use 1playerinsertcoin's original overlays for the Miyoo Mini Plus. Note that the image below is a mock-up, and not an actual screenshot.<br><br>![Perfect_GBC_for_RG35XX_Mockup](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/993612ec-f6d1-4d12-b33a-72e331b3a982)
+1. **Perfect Overlays for RG35XX** - Adaptations of 1playerinsertcoin's brilliant overlays for [GB](https://www.reddit.com/r/MiyooMini/comments/18e2o0z/i_remastered_my_game_boy_dmg_overlay/), [GBC](https://www.reddit.com/r/MiyooMini/comments/1857xa7/i_made_a_game_boy_color_overlay/), and [GBA](https://www.reddit.com/r/MiyooMini/comments/18ovuld/i_made_a_game_boy_advance_overlay/?rdt=48158) to correct for minor alignment issues on the RG35XX. Please refer to the included README files for important settings information. Not for use on the Miyoo Mini (Plus) - click the linked Reddit posts for the original MM files and optimized settings. Note that the images below are mock-ups and not actual screenshots. Detailed comparison pictures can be found in the linked posts.<br><br>![Perfect_DMG-EX_for_RG35XX_Mockup](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/84cb850a-46c2-4fad-b3d1-faefa2daff20)
+<br>![Perfect_GBC_for_RG35XX_Mockup](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/993612ec-f6d1-4d12-b33a-72e331b3a982)<br>
+![Perfect_GBA_for_RG35XX_Mockup](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/76ab1c27-a50d-4e5c-93ce-946ed3cfcaec)
 <br><br>
+
+**Older Overlays**<br>I plan to revisit these at some point as I've learned a lot since creating them and they need (at a minimum) some optimization. I've left them up in case they're of use to anyone; however, I highly recommend using the Perfect Overlays for RG35XX instead.<br><br>
 
 2. **GB Dark** - Dark overlay + grid for GB based on the GBCL Miyoo Mini overlay<br><br>![GB_dark_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/6cb58cb8-5c67-4b56-862c-485d28f4fcc5)<br><br>
 
