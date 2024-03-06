@@ -17,7 +17,7 @@ Various boot logos, themes,  overlays etc. Mostly for Garlic OS for the Anbernic
 ### Themes
 1. **Arcade Invaders** - An arcade classic that never was. A work in progress.<br><br>![Arcade_Invaders](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/f8975270-aee1-48fc-b7c7-1c33255eaa21)<br><br>
 
-2. **Super Mario Evolution** - Follows the graphical progession of SMB1 (NES) through SMW (SNES). This one was a lot of fun.<br><br>![Super_Mario_Evolution](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/ce0a4164-03ec-457b-b23a-b3e226dd6509)<br><br>Battery icon:<br>![Yoshi_Battery](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/141b81ec-ad3b-4ab3-998a-dcbe534507bf)<br><br>
+2. **Super Mario Evolution** - Follows the graphical progession of SMB1 (NES) through SMW (SNES). This one was a lot of fun.<br><br>![Super_Mario_Evolution](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/ce0a4164-03ec-457b-b23a-b3e226dd6509)<br><br>
 
 3. **Moving Dungeon** - Wizardry-inspired theme based on Minimal Dungeon theme by 420AM. I wanted to see if I could simulate walking down the hallway as you move through the options. Turns out I could but it required a detour into the idiosyncracies of how Garlic OS displays oversized icons and other theme elements (see Garlic OS theming notes and/or Moving Dungeon readme if you're interested).<br><br>![Moving_Dungeon](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/2350ffc2-c406-4634-9168-2ba6c3c842f3)<br><br>
 
@@ -34,13 +34,16 @@ Various boot logos, themes,  overlays etc. Mostly for Garlic OS for the Anbernic
 ![Perfect_GBA_for_RG35XX_Mockup](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/76ab1c27-a50d-4e5c-93ce-946ed3cfcaec)
 <br><br>
 
+2. **Perfect GBA Overlay for RG35XX - Centered** - Centered version of the Perfect GBA overlay for RG35XX for those experiencing lag, choppy audio, or other issues when using the offset version, and for whom gpSP doesn't solve the problem. Or for those who just prefer the aesthetic. Best experienced with Bilinear 3x interpolation as the other methods do not match the vertical resolution of the grid (424 px). Please refer to the included README files for important settings information. Not for use on the Miyoo Mini (Plus). <br><br>![Perfect_GBA_Centered_alt](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/6c51b3c3-628e-4819-b349-2214ba2efda3)
+<br><br>
+
 **Older Overlays**<br>I plan to revisit these at some point as I've learned a lot since creating them and they need (at a minimum) some optimization. I've left them up in case they're of use to anyone; however, I highly recommend using the Perfect Overlays for RG35XX instead.<br><br>
 
-2. **GB Dark** - Dark overlay + grid for GB based on the GBCL Miyoo Mini overlay<br><br>![GB_dark_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/6cb58cb8-5c67-4b56-862c-485d28f4fcc5)<br><br>
+3. **GB Dark** - Dark overlay + grid for GB based on the GBCL Miyoo Mini overlay<br><br>![GB_dark_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/6cb58cb8-5c67-4b56-862c-485d28f4fcc5)<br><br>
 
-3. **GB Dark Nointeger** - Six variants of my GB Dark overlay for those who don't use integer scaling<br><br>![GB_dark_full_logo_power_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/fba81488-fa17-4f33-835b-3bb053befd57)<br><br>
+4. **GB Dark Nointeger** - Six variants of my GB Dark overlay for those who don't use integer scaling<br><br>![GB_dark_full_logo_power_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/fba81488-fa17-4f33-835b-3bb053befd57)<br><br>
 
-4. **GBA 3X Pixel Alt** - Modification of the GBA_3x_pixel Miyoo Mini overlay with reduced opacity grid and no blue GBA logo border<br><br>![GBA_3x_pixel_alt_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/72857307-e831-4688-a2b9-0631a176f0b6)<br><br>
+5. **GBA 3X Pixel Alt** - Modification of the GBA_3x_pixel Miyoo Mini overlay with reduced opacity grid and no blue GBA logo border<br><br>![GBA_3x_pixel_alt_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/72857307-e831-4688-a2b9-0631a176f0b6)<br><br>
 
 
 ## Miscellaneous
