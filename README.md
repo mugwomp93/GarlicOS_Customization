@@ -14,6 +14,10 @@ Various boot logos, themes,  overlays etc. Mostly for Garlic OS for the Anbernic
 6. **Wizardry** - Apple II Wizardry intro screen<br><br>![wizardry](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/2657303a-d315-418f-bd0c-f9b926a3da18)<br><br>
 
 
+### Battery Charging Animations
+1. **Chrono Campfire** (adapted from/inspired by [huor_fashmir's cute and cozy charging animation for the Miyoo Mini](https://www.reddit.com/r/MiyooMini/comments/1b19k49/i_made_this_cute_and_simple_chrono_trigger/))<br><br>![Chrono_Campfire](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/4491aab3-7087-4445-898d-ac11ca2c5654)<br><br>
+
+
 ### Themes
 1. **Arcade Invaders** - An arcade classic that never was. A work in progress.<br><br>![Arcade_Invaders](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/f8975270-aee1-48fc-b7c7-1c33255eaa21)<br><br>
 
