@@ -5,7 +5,8 @@ Various boot logos, themes,  overlays etc. Mostly for Garlic OS for the Anbernic
 ## Garlic OS (RG35XX)
 
 ### Boot Logos & Animations
-1. **Chrono Trigger** - A couple of Chrono Trigger boot logos. The second one is the same but plays it straight (i.e., 1995 Square, without Lucca)<br><br>![Lucca version preview](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/ac5a69c3-d8b3-41f3-96c0-68a7c9ca6bf5)<br><br>
+1. **Chrono Trigger** - A couple of Chrono Trigger-themed boot logos. There's also a white variant of the 1995 Square version.<br><br>![Lucca version preview](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/ac5a69c3-d8b3-41f3-96c0-68a7c9ca6bf5)<br>![Square version dark preview](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/ec0f0dca-b048-41e1-94f9-392891fcf721)
+<br><br>
 2. **Super Garlic Bros. 3** - Super Mario Bros. 3 boot animation<br><br>![Super Garlic Bros 3](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/7b224ef7-eb24-4fc4-bcf2-78573f564e0b)<br><br>
 3. **Purple Neon** - Lower brightness purple boot logo<br><br>![purple_neon](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/fe4c65cc-def1-424d-a75b-456c2c06324e)<br><br>
 4. **Game Boy Box Art** - Original Game Boy box art for the RG35XX. Why did I make this? Who knows. But it was fun.<br><br>![RG35XX_Game_Boy](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/f181424f-47c1-4447-9a48-bcf07dccdaee)
