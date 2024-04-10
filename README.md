@@ -11,7 +11,8 @@ Various boot logos, themes,  overlays etc. Mostly for Garlic OS for the Anbernic
 3. **Purple Neon** - Lower brightness purple boot logo<br><br>![purple_neon](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/fe4c65cc-def1-424d-a75b-456c2c06324e)<br><br>
 4. **Game Boy Box Art** - Original Game Boy box art for the RG35XX. Why did I make this? Who knows. But it was fun.<br><br>![RG35XX_Game_Boy](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/f181424f-47c1-4447-9a48-bcf07dccdaee)
 <br><br>
-5. **Garlic Gradius** - Imaginary Gradius boxart for SNES<br><br>![boot_image_v3](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/3d016c4a-141c-4352-b5ba-0f5d0a85be85)<br><br>
+5. **Garlic Gradius** - Imaginary Gradius boxart for SNES<br><br>![garlic_gradius_konami_aged_20](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/ff0f3cf1-2ffd-4af4-8f4a-0968f0fac7a6)
+<br><br>
 6. **RG35XX All-Stars** - Super Mario All-Stars (SNES) title screen logo<br><br>![RG35XX_All-Stars](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/f76dc2d4-3abb-4296-b6fe-0bd7915aad51)<br><br>
 7. **Wizardry** - Apple II Wizardry intro screen<br><br>![wizardry](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/2657303a-d315-418f-bd0c-f9b926a3da18)<br><br>
 
