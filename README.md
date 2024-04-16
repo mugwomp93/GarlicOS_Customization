@@ -55,8 +55,7 @@ Various boot logos, themes,  overlays etc. Mostly for Garlic OS for the Anbernic
 
 ## Miscellaneous
 Not Garlic or RG35XX related
-1. **Everdrive N8 Pro Label** - Black-box-themed replacement label for the Everdrive N8 Pro. Made using [this template](https://stoneagegamer.com/everdrive-n8-label.html) from Stone Age Gamer. Includes tightly-cropped versions as well as a version with excess to allow for misalignment/bleed. Preview image has been downscaled from the originals, which are ~600 dpi<br><br>![Everdrive Replacement Label 456x800](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/8860d991-bf3f-4cb2-9eff-4c4e4d2efcc9)
-<br><br>
+1. **Everdrive N8 Pro Label** - Black-box-themed replacement label for the Everdrive N8 Pro. Approximately 600 dpi. Made using [this template](https://stoneagegamer.com/everdrive-n8-label.html) from Stone Age Gamer. Includes tightly-cropped versions as well as a version with excess to allow for misalignment/bleed. <br><br>![Everdrive Replacement Label 456x800](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/8860d991-bf3f-4cb2-9eff-4c4e4d2efcc9)![20240416_151415](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/66f50326-4078-4716-b177-dabfc400cfad)<br><br>
 
 2. **Cyclo DS / EDGE DS Skin** - Plumber-themed skin for Cyclo DS and EDGE DS flash cards<br><br>![Super_Mario_Skin_dark](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/1db6afd7-d132-4443-a259-160776dd9d89)
 <br><br>
