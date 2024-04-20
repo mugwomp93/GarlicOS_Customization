@@ -5,7 +5,7 @@ Various boot logos, themes,  overlays etc. Mostly for Garlic OS for the Anbernic
 ## Garlic OS (RG35XX)
 
 ### Boot Logos & Animations
-1. **Garlic Gradius** - Imaginary Gradius boxart and instruction manual<br><br>![Regular Version Preview](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/968c9391-0122-44e4-b90b-c5953dab9fe6)<br>![Instruction Manual Version Preview](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/de54deea-352f-408e-83eb-6c50b6604068)<br><br>
+1. **Garlic Gradius** - Imaginary Gradius instruction manual<br><br>![Instruction Manual Version Preview](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/de54deea-352f-408e-83eb-6c50b6604068)<br><br>
 2. **Chrono Trigger** - A couple of Chrono Trigger-themed boot logos. There's also a white variant of the 1995 Square version.<br><br>![Square version dark preview](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/ec0f0dca-b048-41e1-94f9-392891fcf721)<br>![Lucca version preview](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/ac5a69c3-d8b3-41f3-96c0-68a7c9ca6bf5)<br><br>
 3. **Super Garlic Bros. 3** - Super Mario Bros. 3 boot animation<br><br>![Super Garlic Bros 3](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/7b224ef7-eb24-4fc4-bcf2-78573f564e0b)<br><br>
 4. **Purple Neon** - Lower brightness purple boot logo<br><br>![purple_neon](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/fe4c65cc-def1-424d-a75b-456c2c06324e)<br><br>
