@@ -6,13 +6,14 @@ Various boot logos, themes,  overlays etc. Mostly for Garlic OS for the Anbernic
 
 ### Boot Logos & Animations
 1. **Garlic Gradius** - Imaginary Gradius instruction manual<br><br>![Instruction Manual Version Preview](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/de54deea-352f-408e-83eb-6c50b6604068)<br><br>
-2. **Chrono Trigger** - A couple of Chrono Trigger-themed boot logos. There's also a white variant of the 1995 Square version.<br><br>![Square version dark preview](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/ec0f0dca-b048-41e1-94f9-392891fcf721)<br>![Lucca version preview](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/ac5a69c3-d8b3-41f3-96c0-68a7c9ca6bf5)<br><br>
-3. **Super Garlic Bros. 3** - Super Mario Bros. 3 boot animation<br><br>![Super Garlic Bros 3](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/7b224ef7-eb24-4fc4-bcf2-78573f564e0b)<br><br>
-4. **Purple Neon** - Lower brightness purple boot logo<br><br>![purple_neon](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/fe4c65cc-def1-424d-a75b-456c2c06324e)<br><br>
-5. **Game Boy Box Art** - Original Game Boy box art for the RG35XX. Why did I make this? Who knows. But it was fun.<br><br>![RG35XX_Game_Boy](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/f181424f-47c1-4447-9a48-bcf07dccdaee)
+2. **Wizardry** - Apple II-style Wizardry intro screen<br><br>![CRT Preview](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/247bb997-4e80-4c93-8405-a5afc9140596)<br><br>
+3. **Chrono Trigger** - A couple of Chrono Trigger-themed boot logos. There's also a white variant of the 1995 Square version.<br><br>![Square version dark preview](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/ec0f0dca-b048-41e1-94f9-392891fcf721)<br>![Lucca version preview](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/ac5a69c3-d8b3-41f3-96c0-68a7c9ca6bf5)<br><br>
+4. **Super Garlic Bros. 3** - Super Mario Bros. 3 boot animation<br><br>![Super Garlic Bros 3](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/7b224ef7-eb24-4fc4-bcf2-78573f564e0b)<br><br>
+5. **Purple Neon** - Lower brightness purple boot logo<br><br>![purple_neon](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/fe4c65cc-def1-424d-a75b-456c2c06324e)<br><br>
+6. **Game Boy Box Art** - Original Game Boy box art for the RG35XX. Why did I make this? Who knows. But it was fun.<br><br>![RG35XX_Game_Boy](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/f181424f-47c1-4447-9a48-bcf07dccdaee)
 <br><br>
-6. **RG35XX All-Stars** - Super Mario All-Stars (SNES) title screen logo<br><br>![RG35XX_All-Stars](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/f76dc2d4-3abb-4296-b6fe-0bd7915aad51)<br><br>
-7. **Wizardry** - Apple II Wizardry intro screen<br><br>![wizardry](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/2657303a-d315-418f-bd0c-f9b926a3da18)<br><br>
+7. **RG35XX All-Stars** - Super Mario All-Stars (SNES) title screen logo<br><br>![RG35XX_All-Stars](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/f76dc2d4-3abb-4296-b6fe-0bd7915aad51)<br><br>
+
 
 
 ### Battery Charging Animations
