@@ -21,7 +21,7 @@ Various boot logos, themes,  overlays etc. Mostly for Garlic OS for the Anbernic
 
 
 ### Themes
-1. **Arcade Invaders** - An arcade classic that never was. A work in progress.<br><br>![Arcade_Invaders](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/f8975270-aee1-48fc-b7c7-1c33255eaa21)<br><br>
+1. **Arcade Invaders** - An arcade classic that never was. A work in progress.<br><br>![Arcade_Invaders](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/739a5148-7b8e-40e1-8afb-ec5f88bfb201)<br><br>
 
 2. **Super Mario Evolution** - Follows the graphical progession of SMB1 (NES) through SMW (SNES). This one was a lot of fun.<br><br>![Super_Mario_Evolution](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/ce0a4164-03ec-457b-b23a-b3e226dd6509)<br><br>
 
