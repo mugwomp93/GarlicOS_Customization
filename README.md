@@ -12,7 +12,7 @@ Various overlays, boot logos, themes, etc. Mostly for Garlic OS for the original
 <br>*Updated 2024-10-04 for parity with the Perfect overlay collections for RG35XX Plus/H/SP/2024 and other 640x480 devices.*
 <br><br>Note that there are no changes to the grids themselves:<br>
 <br>  - Improved DMG/GBP border shadow
-<br>  - Added additional border desiogns
+<br>  - Added additional border designs
 <br>  - Added no grid, no shadow, etc options for all borders
 <br>  - Restructured folders to make the choices easier to understand and navigate
 <br><br>DMG shadow comparison:
@@ -24,6 +24,15 @@ Various overlays, boot logos, themes, etc. Mostly for Garlic OS for the original
 <br><br>GBA border options:
 <br><br>![GBA_example_borders](https://github.com/user-attachments/assets/b4fe01a8-cfec-4cfc-96d4-1a15bead594a)<br><br>
 
+## Other Overlays (Garlic OS, Other 640x480 devices)
+1. **NeoGeo Pocket Color** - An integer-scale NGPC overlay using a 3x3 pixel-sized section of the Perfect GBA overlay to create an lcd effect<br><br>![muOS_20241010_1136_0](https://github.com/user-attachments/assets/57a3bdbe-2052-4aae-964e-3b954602f255)![muOS_20241010_1137_0](https://github.com/user-attachments/assets/d0aa6e4f-449b-4318-bebd-d4b679bfebfa)<br><br>
+2. **Older Overlays**
+<br>**New integer-scale Game Boy overlays coming soon!**
+<br> I've left these up for the time being in case they're of use to anyone; however, I highly recommend using the Perfect Overlays for RG35XX instead.<br>
+<br> **GB Dark** - Dark overlay + grid for GB based on the GBCL Miyoo Mini overlay<br><br>![GB_dark_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/6cb58cb8-5c67-4b56-862c-485d28f4fcc5)<br>
+<br> **GB Dark Nointeger** - Non-integer-scale versions of my GB Dark overlay<br><br>![GB_dark_full_logo_power_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/fba81488-fa17-4f33-835b-3bb053befd57)<br>
+<br> **GBA 3X Pixel Alt** - Modification of the GBA_3x_pixel Miyoo Mini overlay with reduced opacity grid and no blue GBA logo border<br><br>![GBA_3x_pixel_alt_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/72857307-e831-4688-a2b9-0631a176f0b6)<br><br>
+
 ## Boot Logos & Animations (Garlic OS)
 1. **Garlic Gradius** - Imaginary Gradius instruction manual<br><br>![Instruction Manual Version Preview](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/de54deea-352f-408e-83eb-6c50b6604068)<br><br>
 2. **Wizardry** - Apple II-style Wizardry intro screen<br><br>![CRT Preview](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/247bb997-4e80-4c93-8405-a5afc9140596)<br><br>
@@ -33,6 +42,7 @@ Various overlays, boot logos, themes, etc. Mostly for Garlic OS for the original
 6. **Game Boy Box Art** - Original Game Boy box art for the RG35XX. Why did I make this? Who knows. But it was fun.<br><br>![RG35XX_Game_Boy](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/f181424f-47c1-4447-9a48-bcf07dccdaee)
 <br><br>
 7. **RG35XX All-Stars** - Super Mario All-Stars (SNES) title screen logo<br><br>![RG35XX_All-Stars](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/f76dc2d4-3abb-4296-b6fe-0bd7915aad51)<br><br>
+
 
 ## Battery Charging Animations (Garlic OS)
 1. **Chrono Campfire** (adapted from/inspired by [huor_fashmir's cute and cozy charging animation for the Miyoo Mini](https://www.reddit.com/r/MiyooMini/comments/1b19k49/i_made_this_cute_and_simple_chrono_trigger/))<br><br>![Chrono_Campfire](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/4491aab3-7087-4445-898d-ac11ca2c5654)<br><br>
@@ -50,15 +60,6 @@ Various overlays, boot logos, themes, etc. Mostly for Garlic OS for the original
 5. **GBOnion for Garlic** (adapted from [GBOnion Miyoo Mini theme](https://www.reddit.com/r/MiyooMini/comments/vdxg1a/gbonion_theme_and_customizations/?rdt=57022) by Kitsuvi)<br><br>![GBOnion_for_Garlic](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/1650fb02-9d23-4497-b53c-093d3740b474)<br><br>
 
 6. **GBOnion Multicolor** (remix of the above two themes: dark background with multicolored active icons and logos)<br><br>![GBOnion_Multicolor](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/0e7986cb-33e5-4fa6-adcf-4937ec17f8b4)<br><br>
-
-## Older Overlays (Garlic OS)
-<br>I plan to revisit these at some point as I've learned a lot since creating them and they need (at a minimum) some optimization. I've left them up in case they're of use to anyone; however, I highly recommend using the Perfect Overlays for RG35XX instead.<br><br>
-
-1. **GB Dark** - Dark overlay + grid for GB based on the GBCL Miyoo Mini overlay<br><br>![GB_dark_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/6cb58cb8-5c67-4b56-862c-485d28f4fcc5)<br><br>
-
-2. **GB Dark Nointeger** - Six variants of my GB Dark overlay for those who don't use integer scaling<br><br>![GB_dark_full_logo_power_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/fba81488-fa17-4f33-835b-3bb053befd57)<br><br>
-
-3. **GBA 3X Pixel Alt** - Modification of the GBA_3x_pixel Miyoo Mini overlay with reduced opacity grid and no blue GBA logo border<br><br>![GBA_3x_pixel_alt_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/72857307-e831-4688-a2b9-0631a176f0b6)<br><br>
 
 
 ## Miscellaneous (Not Garlic OS)
