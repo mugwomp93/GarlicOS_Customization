@@ -6,7 +6,7 @@ Various overlays, boot logos, themes, etc. Mostly for Garlic OS for the original
 <br>![github_banner2](https://github.com/user-attachments/assets/f5bcfdb1-2a82-4373-a33b-0d5b2ff9bd69)
 
 <br>Adaptations of 1playerinsertcoin's brilliant overlays for [GB](https://www.reddit.com/r/MiyooMini/comments/18e2o0z/i_remastered_my_game_boy_dmg_overlay/), [GBC](https://www.reddit.com/r/MiyooMini/comments/1857xa7/i_made_a_game_boy_color_overlay/), and [GBA](https://www.reddit.com/r/MiyooMini/comments/18ovuld/i_made_a_game_boy_advance_overlay/?rdt=48158) to correct for minor alignment issues on the **original** RG35XX. Please refer to the included README files for important settings information.
-<br><br>**Not for use with the Miyoo Mini (Plus)!** - See the linked Reddit posts for the original MM files and recommended settings. Some versiosn are also preloaded in Onion OS.
+<br><br>**Not for use with the Miyoo Mini (Plus)!** - See the linked Reddit posts for the original MM files and recommended settings. Some versions are also preloaded in Onion OS.
 <br><br>See my [other repository](https://github.com/mugwomp93/muOS_Customization) for the RG35XX Plus/H/SP/2024 and other 640x480 devices.
 
 <br>*Updated 2024-10-04 for parity with the Perfect overlay collections for RG35XX Plus/H/SP/2024 and other 640x480 devices.*
@@ -27,7 +27,7 @@ Various overlays, boot logos, themes, etc. Mostly for Garlic OS for the original
 ## Other Overlays (Garlic OS, Other 640x480 devices)
 1. **Neo Geo Pocket Color** - An integer-scale NGPC overlay that uses a repeated 3x3 pixel section of 1playerinsertcoin's Perfect GBA overlay to create an lcd effect<br><br>![muOS_20241010_1136_0](https://github.com/user-attachments/assets/57a3bdbe-2052-4aae-964e-3b954602f255)![muOS_20241010_1137_0](https://github.com/user-attachments/assets/d0aa6e4f-449b-4318-bebd-d4b679bfebfa)<br><br>
 3. **Older Overlays**
-<br>**New integer-scale Game Boy overlays coming soon!**
+<br>**New integer-scale Game Boy overlays coming soon**
 <br> I've left these up for the time being in case they're of use to anyone; however, I highly recommend using the Perfect Overlays for RG35XX instead.<br>
 <br> **GB Dark** - Dark overlay + grid for GB based on the GBCL Miyoo Mini overlay<br><br>![GB_dark_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/6cb58cb8-5c67-4b56-862c-485d28f4fcc5)<br>
 <br> **GB Dark Nointeger** - Non-integer-scale versions of my GB Dark overlay<br><br>![GB_dark_full_logo_power_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/fba81488-fa17-4f33-835b-3bb053befd57)<br>
