@@ -12,7 +12,7 @@ Various overlays, boot logos, themes, etc for Garlic OS on the original RG35XX. 
 ## [Perfect Overlays for Garlic OS](https://github.com/mugwomp93/GarlicOS_Customization/blob/main/Perfect_Overlays_for_RG35XX.zip)
 <br>![github_banner2](https://github.com/user-attachments/assets/f5bcfdb1-2a82-4373-a33b-0d5b2ff9bd69)
 
-<br>Adaptations of 1playerinsertcoin's brilliant overlays for [DMG-EX](https://www.reddit.com/r/MiyooMini/comments/18e2o0z/i_remastered_my_game_boy_dmg_overlay/), [GBC](https://www.reddit.com/r/MiyooMini/comments/1857xa7/i_made_a_game_boy_color_overlay/), and [GBA](https://www.reddit.com/r/MiyooMini/comments/18ovuld/i_made_a_game_boy_advance_overlay/?rdt=48158) to correct for minor alignment issues on the **original** RG35XX. Please refer to the included README files for important settings information.
+<br>Adaptations of 1playerinsertcoin's brilliant [DMG-EX](https://www.reddit.com/r/MiyooMini/comments/18e2o0z/i_remastered_my_game_boy_dmg_overlay/), [GBC](https://www.reddit.com/r/MiyooMini/comments/1857xa7/i_made_a_game_boy_color_overlay/), and [GBA](https://www.reddit.com/r/MiyooMini/comments/18ovuld/i_made_a_game_boy_advance_overlay/?rdt=48158) overlays to correct for minor alignment issues on the **original** RG35XX. Please refer to the included README files for important settings information.
 <br><br>**Not for use with the Miyoo Mini (Plus)!** - See the linked Reddit posts for the original MM files and recommended settings. Some versions are also preloaded in Onion OS.
 <br><br>See my [other repository](https://github.com/mugwomp93/muOS_Customization) for the RG35XX Plus/H/SP/2024 and other 640x480 devices.
 
