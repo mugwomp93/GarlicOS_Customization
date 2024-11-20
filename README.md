@@ -36,7 +36,7 @@ Various overlays, boot logos, themes, etc for Garlic OS on the original RG35XX. 
 1. **[Neo Geo Pocket Color](https://github.com/mugwomp93/GarlicOS_Customization/blob/main/NGPC_mugwomp93.zip)** - An integer-scale NGPC overlay that uses a repeated 3x3 pixel section of 1playerinsertcoin's Perfect GBA overlay to create an lcd effect<br><br>![NGPC_examples](https://github.com/user-attachments/assets/6f363fe0-6d2b-425f-b906-f4c6edf3bdc0)<br><br>
 
 2. **Game Boy Integer-Scale Overlays**
-<br>Coming soon!<br><br>![Comparison - DMG](https://github.com/user-attachments/assets/8c13f8eb-436d-4ec1-a934-ff3e35e9a1cd)<br><br>![Comparison - GBL](https://github.com/user-attachments/assets/8cf02800-a65b-4b50-a2d4-c94131cf66ec)<br><br>
+<br>Coming soon!<br><br>![Game Boy Metallics Preview](https://github.com/user-attachments/assets/3b06ea06-1fcf-45d7-97f8-d2d32a814320)<br><br>
 
 3. **Older Overlays**
 <br> I've left these up for the time being in case they're of use to anyone; however, I highly recommend using the Perfect Overlays for RG35XX instead.<br>
