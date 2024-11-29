@@ -3,7 +3,7 @@ by mugwomp93
 
 These overlays use colored grids to tweak the appearances of the internal Gambatte Game Boy palettes.
 
-These overlays were optimized on the original RG35XX as it doesn't have any other means of adjusting the image color, contrast, etc. The final versions were a compromise of color, grid line visibility, and contrast within the constraints of the existing internal palettes (e.g., so changing the overlay opacity affects also affects the color and contrast). As a result, I created optional custom overlays to help improve the contrast and in some cases (DMG, GBL) further refine the color schemes. Overlay alignment was tested on the RG35XX, RG35XX Plus, and Miyoo Mini Plus, and in all cases was correct.
+These overlays were optimized on the original RG35XX as it doesn't have any other means of adjusting the image color, contrast, etc. The final versions were a compromise of color, grid line visibility, and contrast within the constraints of the existing internal palettes (e.g., so changing the overlay opacity affects also affects the color and contrast). As a result, I created optional custom palettes to help improve the contrast and in some cases (DMG, GBL) further refine the color schemes. Overlay alignment was tested on the RG35XX, RG35XX Plus, and Miyoo Mini Plus, and in all cases was correct.
 
 Note that the DMG and GBP are dark overlays, and you'll need to increase your screen brightness to (near) maximum for them to appear correctly.
 
