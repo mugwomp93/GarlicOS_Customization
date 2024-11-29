@@ -4,17 +4,18 @@ Various overlays, boot logos, themes, etc for Garlic OS on the original RG35XX. 
 
 # Contents
 1. [Perfect Overlays for Garlic OS](https://github.com/mugwomp93/GarlicOS_Customization#perfect-overlays-for-garlic-os)
-2. [Other Overlays](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#other-overlays)
-3. [Boot Logos & Animations](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#boot-logos--animations)
-4. [Battery Charging Animations](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#battery-charging-animations)
-5. [Themes](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#themes)
+2. [Game Boy Metallics Overlays](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#game-boy-metallics-overlays)
+3. [Other Overlays](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#other-overlays)
+4. [Boot Logos & Animations](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#boot-logos--animations)
+5. [Battery Charging Animations](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#battery-charging-animations)
+6. [Themes](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#themes)
 
 ## [Perfect Overlays for Garlic OS](https://github.com/mugwomp93/GarlicOS_Customization/blob/main/Perfect_Overlays_for_RG35XX.zip)
 <br>![github_banner2](https://github.com/user-attachments/assets/f5bcfdb1-2a82-4373-a33b-0d5b2ff9bd69)
 
 <br>Adaptations of 1playerinsertcoin's brilliant [DMG-EX](https://www.reddit.com/r/MiyooMini/comments/18e2o0z/i_remastered_my_game_boy_dmg_overlay/), [GBC](https://www.reddit.com/r/MiyooMini/comments/1857xa7/i_made_a_game_boy_color_overlay/), and [GBA](https://www.reddit.com/r/MiyooMini/comments/18ovuld/i_made_a_game_boy_advance_overlay/?rdt=48158) overlays to correct for minor alignment issues on the **original** RG35XX. Please refer to the included README files for important settings information.
 <br><br>**Not for use with the Miyoo Mini (Plus)!** - See the linked Reddit posts for the original MM files and recommended settings. Some versions are also preloaded in Onion OS.
-<br><br>See my [other repository](https://github.com/mugwomp93/muOS_Customization) for the RG35XX Plus/H/SP/2024 and other 640x480 devices.
+<br><br>See my [muOS repository](https://github.com/mugwomp93/muOS_Customization) for the RG35XX Plus/H/SP/2024 and other 640x480 devices.
 
 <br>*Updated 2024-10-04 for parity with the Perfect overlay collections for RG35XX Plus/H/SP/2024 and other 640x480 devices.*
 <br><br>Note that there are no changes to the grids themselves:<br>
@@ -32,17 +33,26 @@ Various overlays, boot logos, themes, etc for Garlic OS on the original RG35XX. 
 <br><br>![GBA_example_borders](https://github.com/user-attachments/assets/b4fe01a8-cfec-4cfc-96d4-1a15bead594a)<br><br>
 
 
+## [Game Boy Metallics Overlays](https://github.com/mugwomp93/GarlicOS_Customization/tree/main/Game%20Boy%20Metallics)
+<br>![Game Boy Metallics Preview 2](https://github.com/user-attachments/assets/d34e6032-0dff-48ac-a8f7-a4076bc17442)
+
+<br>This is the culmination of a couple of projects I've wanted to work on for a while: revisiting my first attempts at integer-scale Game Boy overlays, and seeing if I could improve the default Game Boy palettes in Retroarch (which I've never been happy with on my RG35XX). The result is these overlays, which use colored grids to tweak the appearances of the internal Gambatte Game Boy palettes.
+
+<br>The final versions were a compromise of color, grid line visibility, and contrast within the constraints of the existing internal palettes (e.g., changing the overlay opacity affects also affects the color and contrast). As a result, I ended up creating some optional custom palettes to help improve the contrast and in some cases (DMG, GBL) further refine the color schemes.<br> 
+<br><br>![Example - DMG](https://github.com/user-attachments/assets/86e042cd-f108-4878-98ad-e8ce099bd746)
+<br><br>![Example - GB Pocket](https://github.com/user-attachments/assets/90c705dc-b28c-401e-92d0-a13915df43cf)
+<br><br>![Example - GB Light](https://github.com/user-attachments/assets/28e9615f-5ae7-4b3a-959f-e20c4aa18a2d)
+<br><br>![Example - Virtual Boy](https://github.com/user-attachments/assets/c14436ab-d522-4867-b194-943aedbb579b)<br><br>
+
+The screenshots used in the pictures above were taken on an RG35XX Plus and edited to match (at least as closely as possible) what I see on my original RG35XX. Given the difficulties in conveying accurate colors (my display isn't calibrated, your display likely isn't calibrated, your handheld likely doesn't display accurate colors anyway, etc.), it's difficult to say whether the colors you see are representative of what these overlays and palettes will look like on your device; however, each image is internally consistent with the colors on my RG35XX, so you can likely compare the raw palette images with what those palettes look like on your device to get an idea of how the overlays will look.
+
+If you just want the four overlays featured in the images, you can download my [preferred pack](https://github.com/mugwomp93/GarlicOS_Customization/blob/main/Game%20Boy%20Metallics%20-%20Preferred%20Pack.zip). Otherwise, I've uploaded all combinations of the borders x overlay grids, with and without power lights, as well as borders-only and no-borders versions, [here](https://github.com/mugwomp93/GarlicOS_Customization/tree/main/Game%20Boy%20Metallics).
+
+**Recommended settings and instructions for the custom palettes can be found in the readme files in both the preferred pack zip file and the top-level Game Boy Metallics folder.**<br><br>
+
+
 ## Other Overlays
 1. **[Neo Geo Pocket Color](https://github.com/mugwomp93/GarlicOS_Customization/blob/main/NGPC_mugwomp93.zip)** - An integer-scale NGPC overlay that uses a repeated 3x3 pixel section of 1playerinsertcoin's Perfect GBA overlay to create an lcd effect<br><br>![NGPC_examples](https://github.com/user-attachments/assets/6f363fe0-6d2b-425f-b906-f4c6edf3bdc0)<br><br>
-
-2. **Game Boy Integer-Scale Overlays**
-<br>Coming soon!<br><br>![Game Boy Metallics Preview](https://github.com/user-attachments/assets/3b06ea06-1fcf-45d7-97f8-d2d32a814320)<br><br>
-
-3. **Older Overlays**
-<br> I've left these up for the time being in case they're of use to anyone; however, I highly recommend using the Perfect Overlays for RG35XX instead.<br>
-<br> **[GB Dark](https://github.com/mugwomp93/GarlicOS_Customization/blob/main/GB_Dark.zip)** - Dark overlay + grid for GB based on the GBCL Miyoo Mini overlay<br><br>![GB_dark_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/6cb58cb8-5c67-4b56-862c-485d28f4fcc5)<br>
-<br> **[GB Dark Nointeger](https://github.com/mugwomp93/GarlicOS_Customization/blob/main/GB_Dark_No_Integer.zip)** - Non-integer-scale versions of my GB Dark overlay<br><br>![GB_dark_full_logo_power_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/fba81488-fa17-4f33-835b-3bb053befd57)<br>
-<br> **[GBA 3X Pixel Alt](https://github.com/mugwomp93/GarlicOS_Customization/blob/main/GBA_3x_pixel_alt.zip)** - Modification of the GBA_3x_pixel Miyoo Mini overlay with reduced opacity grid and no blue GBA logo border<br><br>![GBA_3x_pixel_alt_example](https://github.com/mugwomp93/GarlicOS_Customization/assets/143192398/72857307-e831-4688-a2b9-0631a176f0b6)<br><br>
 
 
 ## Boot Logos & Animations
