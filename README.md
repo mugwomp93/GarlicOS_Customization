@@ -36,6 +36,8 @@ Various overlays, boot logos, themes, etc for Garlic OS on the original RG35XX. 
 ## [Game Boy Metallics Overlays](https://github.com/mugwomp93/GarlicOS_Customization/tree/main/Game%20Boy%20Metallics)
 <br>![Game Boy Metallics Preview 2](https://github.com/user-attachments/assets/d34e6032-0dff-48ac-a8f7-a4076bc17442)
 
+<br>***Note that these overlays are identical to the ones found in my [muOS repository](https://github.com/mugwomp93/muOS_Customization)***
+
 <br>This is the culmination of a couple of projects I've wanted to work on for a while: revisiting my first attempts at integer-scale Game Boy overlays and seeing if I could improve the default Game Boy palettes in Retroarch (which I've never been happy with on my RG35XX). The result is these overlays, which use colored grids to tweak the appearances of the internal Gambatte Game Boy palettes.
 
 <br>The final versions were a compromise of color, grid line visibility, and contrast within the constraints of the existing internal palettes (e.g., changing the overlay opacity affects also affects the color and contrast). As a result, I ended up creating some optional custom palettes to help improve the contrast and in some cases (DMG, GBL) further refine the color schemes.<br> 
