@@ -17,7 +17,11 @@ Various overlays, boot logos, themes, etc for Garlic OS on the original RG35XX. 
 <br><br>**Not for use with the Miyoo Mini (Plus)!** - See the linked Reddit posts for the original MM files and recommended settings. Some versions are also preloaded in Onion OS.
 <br><br>See my [muOS repository](https://github.com/mugwomp93/muOS_Customization) for the RG35XX Plus/H/SP/2024 and other 640x480 devices.
 
-<br>*Updated 2024-10-04 for parity with the Perfect overlay collections for RG35XX Plus/H/SP/2024 and other 640x480 devices.*
+<br>*Updated 2024-12-30:*
+- Fixed a minor visual artifact present in some GBP overlays
+
+<br>*Updated 2024-10-04:*
+- Updated for parity with the Perfect overlay collections for RG35XX Plus/H/SP/2024 and other 640x480 devices
 <br><br>Note that there are no changes to the grids themselves:<br>
 <br>  - Improved DMG/GBP border shadow
 <br>  - Added additional border designs
