@@ -37,7 +37,7 @@ Various overlays, boot logos, themes, etc for Garlic OS on the original RG35XX. 
 <br><br>GBA border options:
 <br><br>![GBA_example_borders](https://github.com/user-attachments/assets/b4fe01a8-cfec-4cfc-96d4-1a15bead594a)<br><br>
 
-## [Game Boy Bivert](https://github.com/mugwomp93/720x720_overlays/tree/main/720x720%20overlays/GB)
+## [Game Boy Bivert](https://github.com/mugwomp93/GarlicOS_Customization/blob/main/GB_Bivert_640x480_garlic.zip)
 ![GB_bivert_examples](https://github.com/user-attachments/assets/045085d5-5fd8-4d05-8a1c-65607f04ee6e)<br>
 ![GB_bivert_irl](https://github.com/user-attachments/assets/4fa8e452-540c-45f5-91c1-45bf5e51a24e)<br>
 
