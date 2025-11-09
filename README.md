@@ -70,7 +70,7 @@ Since I'm too paranoid of messing up to [bivert](https://share.google/9UfGI6dnuo
          Display Overlay > ON
 
          Overlay Preset...
-           > Navigate to retroarch > overlays > mugwomp93 and select GB_bivert
+           > Navigate to retroarch > overlays > mugwomp93 and select GB_bivert_640x480_garlic or GB_bivert_640x480_garlic_nolight
                           
          Overlay Opacity > 1.00
 
