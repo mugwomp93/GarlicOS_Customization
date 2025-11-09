@@ -4,11 +4,12 @@ Various overlays, boot logos, themes, etc for Garlic OS on the original RG35XX. 
 
 # Contents
 1. [Perfect Overlays for Garlic OS](https://github.com/mugwomp93/GarlicOS_Customization#perfect-overlays-for-garlic-os)
-2. [Game Boy Metallics Overlays](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#game-boy-metallics-overlays)
-3. [Other Overlays](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#other-overlays)
-4. [Boot Logos & Animations](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#boot-logos--animations)
-5. [Battery Charging Animations](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#battery-charging-animations)
-6. [Themes](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#themes)
+2. [Game Boy Bivert](https://github.com/mugwomp93/GarlicOS_Customization#game-boy-bivert)
+3. [Game Boy Metallics Overlays](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#game-boy-metallics-overlays)
+4. [Other Overlays](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#other-overlays)
+5. [Boot Logos & Animations](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#boot-logos--animations)
+6. [Battery Charging Animations](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#battery-charging-animations)
+7. [Themes](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#themes)
 
 ## [Perfect Overlays for Garlic OS](https://github.com/mugwomp93/GarlicOS_Customization/blob/main/Perfect_Overlays_for_RG35XX.zip)
 <br>![github_banner2](https://github.com/user-attachments/assets/f5bcfdb1-2a82-4373-a33b-0d5b2ff9bd69)
@@ -36,6 +37,61 @@ Various overlays, boot logos, themes, etc for Garlic OS on the original RG35XX. 
 <br><br>GBA border options:
 <br><br>![GBA_example_borders](https://github.com/user-attachments/assets/b4fe01a8-cfec-4cfc-96d4-1a15bead594a)<br><br>
 
+## [Game Boy Bivert](https://github.com/mugwomp93/720x720_overlays/tree/main/720x720%20overlays/GB)
+![GB_bivert_examples](https://github.com/user-attachments/assets/045085d5-5fd8-4d05-8a1c-65607f04ee6e)<br>
+![GB_bivert_irl](https://github.com/user-attachments/assets/4fa8e452-540c-45f5-91c1-45bf5e51a24e)<br>
+
+Since I'm too paranoid of messing up to [bivert](https://share.google/9UfGI6dnuoHDZfPC1) [my](https://share.google/gKa4aEo0yrGUetiSJ) [Game Boy Pocket](https://share.google/ORsP1ffJJTIlNehBt), I thought I would make an overlay instead. This overlay works in combination with a custom palette and has an orange-purple gradient effect to help simulate more realistic lighting. The zip file includes versions both with and without the power light.<br>
+
+### Configuration
+<details>
+  <summary>Click for installation and settings</summary>
+
+  #### Installation:
+
+  - Download [GB_Bivert_640x480_garlic.zip](https://github.com/mugwomp93/GarlicOS_Customization/blob/main/GB_Bivert_640x480_garlic.zip).
+  - Copy the contents of the overlays folder to your retroarch > overlays folder.
+  - Copy the palettes folder (containing default.pal) to your BIOS folder. Note that this will overwrite any custom palettes you are currently using, so make sure to rename or back them up if you don't want to lose them.
+
+  #### Settings:
+
+  ##### 1. Core Options
+
+    Quick Menu > Core Options:
+
+        GB Colorization > Custom
+
+        Manage Core Options > Save Content Directory Options
+  
+  ##### 2. Apply the Overlay:
+  
+    Quick Menu > On-Screen Overlay
+
+         Display Overlay > ON
+
+         Overlay Preset...
+           > Navigate to retroarch > overlays > mugwomp93 and select GB_bivert
+                          
+         Overlay Opacity > 1.00
+
+   ##### 3. Scaling Settings:
+    
+    Main Menu > Settings > Video > Scaling
+    
+        Integer Scale > ON
+    
+        Keep Aspect Ratio > ON
+    
+        Crop Overscan > OFF
+
+  ##### 4. Save an Override
+
+    Quick Menu > Overrides > Save Content Directory Overrides
+    
+</details>
+
+#### Notes:
+- The colors aren't intended to be 100% true to real life. Consider them "inspired by" instead of accurate representations.<br><br>
 
 ## [Game Boy Metallics Overlays](https://github.com/mugwomp93/GarlicOS_Customization/tree/main/Game%20Boy%20Metallics)
 <br>![Game Boy Metallics Preview 2](https://github.com/user-attachments/assets/d34e6032-0dff-48ac-a8f7-a4076bc17442)
