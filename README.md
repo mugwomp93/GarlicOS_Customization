@@ -4,7 +4,7 @@ Various overlays, boot logos, themes, etc for Garlic OS on the original RG35XX. 
 
 # Contents
 1. [Perfect Overlays for Garlic OS](https://github.com/mugwomp93/GarlicOS_Customization#perfect-overlays-for-garlic-os)
-2. [Game Boy Bivert](https://github.com/mugwomp93/GarlicOS_Customization#game-boy-bivert)
+2. ***(NEW!)*** [Game Boy Bivert](https://github.com/mugwomp93/GarlicOS_Customization#game-boy-bivert)
 3. [Game Boy Metallics Overlays](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#game-boy-metallics-overlays)
 4. [Other Overlays](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#other-overlays)
 5. [Boot Logos & Animations](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#boot-logos--animations)
@@ -17,19 +17,6 @@ Various overlays, boot logos, themes, etc for Garlic OS on the original RG35XX. 
 <br>Adaptations of 1playerinsertcoin's brilliant [DMG-EX](https://www.reddit.com/r/MiyooMini/comments/18e2o0z/i_remastered_my_game_boy_dmg_overlay/), [GBC](https://www.reddit.com/r/MiyooMini/comments/1857xa7/i_made_a_game_boy_color_overlay/), and [GBA](https://www.reddit.com/r/MiyooMini/comments/18ovuld/i_made_a_game_boy_advance_overlay/?rdt=48158) overlays to correct for minor alignment issues on the **original** RG35XX. Please refer to the included README files for important settings information.
 <br><br>**Not for use with the Miyoo Mini (Plus)!** - See the linked Reddit posts for the original MM files and recommended settings. Some versions are also preloaded in Onion OS.
 <br><br>See my [muOS repository](https://github.com/mugwomp93/muOS_Customization) for the RG35XX Plus/H/SP/2024 and other 640x480 devices.
-
-<br>*Updated 2024-12-30:*
-- Fixed a minor visual artifact present in some GBP overlays
-
-<br>*Updated 2024-10-04:*
-- Updated for parity with the Perfect overlay collections for RG35XX Plus/H/SP/2024 and other 640x480 devices
-<br><br>Note that there are no changes to the grids themselves:<br>
-<br>  - Improved DMG/GBP border shadow
-<br>  - Added additional border designs
-<br>  - Added no grid, no shadow, etc options for all borders
-<br>  - Restructured folders to make the choices easier to understand and navigate
-<br><br>DMG shadow comparison:
-<br><br>![DMG_shadows](https://github.com/user-attachments/assets/69208f56-2795-41a9-bec3-7d18642efae7)
 <br><br>DMG & GBP border options:
 <br><br>![DMG_GBP_example_borders](https://github.com/user-attachments/assets/24659a6a-d214-4ff9-b672-eab4b18a8457)
 <br><br>GBC border options:
