@@ -3,8 +3,9 @@
 Various overlays, boot logos, themes, etc for Garlic OS on the original RG35XX. Please let me know if you run into any bugs or have suggestions. You can also find me on Reddit (u/mugwomp_93).
 
 # Contents
-1. [Perfect Overlays for Garlic OS](https://github.com/mugwomp93/GarlicOS_Customization#perfect-overlays-for-garlic-os)
-2. ***(NEW!)*** [Game Boy Bivert](https://github.com/mugwomp93/GarlicOS_Customization#game-boy-bivert)
+1. [Perfect Overlays for Garlic OS](https://github.com/mugwomp93/GarlicOS_Customization#perfect-overlays-for-garlic-os)<br>
+***&#8594; [New GBA border option](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#new-border-option) added 2026-03-04*** 
+2. [Game Boy Bivert](https://github.com/mugwomp93/GarlicOS_Customization#game-boy-bivert)
 3. [Game Boy Metallics Overlays](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#game-boy-metallics-overlays)
 4. [Other Overlays](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#other-overlays)
 5. [Boot Logos & Animations](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#boot-logos--animations)
@@ -17,12 +18,27 @@ Various overlays, boot logos, themes, etc for Garlic OS on the original RG35XX. 
 <br>Adaptations of 1playerinsertcoin's brilliant [DMG-EX](https://www.reddit.com/r/MiyooMini/comments/18e2o0z/i_remastered_my_game_boy_dmg_overlay/), [GBC](https://www.reddit.com/r/MiyooMini/comments/1857xa7/i_made_a_game_boy_color_overlay/), and [GBA](https://www.reddit.com/r/MiyooMini/comments/18ovuld/i_made_a_game_boy_advance_overlay/?rdt=48158) overlays to correct for minor alignment issues on the **original** RG35XX. Please refer to the included README files for important settings information.
 <br><br>**Not for use with the Miyoo Mini (Plus)!** - See the linked Reddit posts for the original MM files and recommended settings. Some versions are also preloaded in Onion OS.
 <br><br>See my [muOS repository](https://github.com/mugwomp93/muOS_Customization) for the RG35XX Plus/H/SP/2024 and other 640x480 devices.
-<br><br>DMG & GBP border options:
-<br><br>![DMG_GBP_example_borders](https://github.com/user-attachments/assets/24659a6a-d214-4ff9-b672-eab4b18a8457)
-<br><br>GBC border options:
-<br><br>![GBC_example_borders](https://github.com/user-attachments/assets/6497b173-5520-479d-bda7-e0258e9c71b8)
-<br><br>GBA border options:
-<br><br>![GBA_example_borders](https://github.com/user-attachments/assets/b4fe01a8-cfec-4cfc-96d4-1a15bead594a)<br><br>
+<br><br>Note that the zip file linked above does not contain the newest Perfect GBA border option added 2026-03-04. See the [Perfect GBA section below](https://github.com/mugwomp93/GarlicOS_Customization?tab=readme-ov-file#new-border-option) for details and download links for the new overlay.
+## Perfect DMG & GBP overlays
+![DMG_GBP_example_borders](https://github.com/user-attachments/assets/24659a6a-d214-4ff9-b672-eab4b18a8457)
+## Perfect GBC overlays
+![GBC_example_borders](https://github.com/user-attachments/assets/6497b173-5520-479d-bda7-e0258e9c71b8)
+## Perfect GBA overlays
+### Original border options:
+![GBA_example_borders](https://github.com/user-attachments/assets/b4fe01a8-cfec-4cfc-96d4-1a15bead594a)
+### New border option:
+<img width="1243" height="576" alt="Perfect_GBA_new_garlic" src="https://github.com/user-attachments/assets/3db59f18-4a49-4464-af37-c79340207395" /><br><br>This option has a better foil effect and a more subdued shadow than the original versions. I'll likely revise how these overlays are collected some time in the future, but for now I've provided the new overlays in separate zip files. There are two options (regular and centered), each of which includes Perfect GBA, Perfect GBA bright, and no grid overlays, all with and without shadows (6 overlays per zip file). See below for descriptions of the two options so you can select the best version for your device.<br><br>
+&emsp;[Perfect GBA New](https://github.com/mugwomp93/GarlicOS_Customization/blob/main/Perfect_GBA_New_GarlicOS.zip)<br>
+&emsp;[Perfect GBA New Centered](https://github.com/mugwomp93/GarlicOS_Customization/blob/main/Perfect_GBA_New_GarlicOS_Centered.zip)<br>
+#### Centered vs. Non-centered
+The GBA logo on the overlays in the non-centered versions is offset toward the bottom of the screen to take advantage of black bezels. It makes for a more even look, as opposed to having the logo crammed toward the top of the border; however, the offset looks odd on devices without black bezels. For example:<br><br>
+On a device with a black bezel (ignore the banding; it's exacerbated by scaling and compression issues):<br>
+<img width="1074" height="721" alt="Perfect_GBA_mugwomp93_new_garlic_offset_black_bezels" src="https://github.com/user-attachments/assets/1f09b27f-a342-414f-9508-404f8d0aacdb" />
+<br>
+(Note that this is an RG35XX Plus running muOS; however, the vertical resolution has been altered to reflect Garlic OS (i.e., 424p) and the Garlic OS overlays are used.)<br><br>
+Compared with a device with a gray bezel:<br>
+<img width="1074" height="721" alt="Perfect_GBA_mugwomp93_new_garlic_offset_gray_bezels" src="https://github.com/user-attachments/assets/7396a97f-c18d-484c-bbdb-e2c3b6e7c9b5" />
+<br>
 
 ## [Game Boy Bivert](https://github.com/mugwomp93/GarlicOS_Customization/blob/main/GB_Bivert_640x480_garlic.zip)
 ![GB_bivert_examples](https://github.com/user-attachments/assets/045085d5-5fd8-4d05-8a1c-65607f04ee6e)<br>
